@@ -1,5 +1,5 @@
 ## _Hi there, I'm Youngin!_ 👋
- 
+I'm studying in **Kookmin Univ** about Artificial Inteligence.
 I'm currently interested in **PS** and **AI**.
 
 ## **🧱 Stacks**
