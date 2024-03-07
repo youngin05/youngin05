@@ -25,7 +25,7 @@ I'm currently learning PS and AI.
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white">
-<img src="https://img.shields.io/badge/C#-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/UNITY-FFFFFF?style=for-the-badge&logo=unity&logoColor=white">
 
 [![solved.ac profile](https://solvedac-cards-starcea.paring.moe/profile/young_out)](https://solved.ac/profile/young_out)
