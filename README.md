@@ -1,4 +1,4 @@
-### [Hi there, I'm youngin05!] 👋
+### [_Hi there, I'm youngin05!_] 👋
 
 <!--
 **youngin05/youngin05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
