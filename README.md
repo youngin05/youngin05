@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 🏃‍♂️ I'm currently learning PS and AI. 
 
-![solved.ac profile](https://solvedac-cards-starcea.paring.moe/profile/young_out)
+[![solved.ac profile](https://solvedac-cards-starcea.paring.moe/profile/young_out)](https://solved.ac/profile/young_out)
