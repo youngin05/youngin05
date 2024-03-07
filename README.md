@@ -1,4 +1,4 @@
-### [_Hi there, I'm youngin05!_] 👋
+### _Hi there, I'm youngin05!_ 👋
 
 <!--
 **youngin05/youngin05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🏃‍♂️ I'm currently learning PS and AI. 
+
+![solved.ac profile](https://solvedac-cards-starcea.paring.moe/profile/young_out)
