@@ -1,4 +1,4 @@
-## _Hi there, I'm Youngin!_ 👋
+## 👋 _Hi there, I'm Youngin!_
 I'm studying in **Kookmin University** about Artificial Inteligence.  
 I'm currently interested in **PS** and **AI**.
 
@@ -19,4 +19,5 @@ I'm currently interested in **PS** and **AI**.
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/UNITY-A8B9CC?style=for-the-badge&logo=unity&logoColor=white">
 
+## **📚 Stats**
 [![solved.ac profile](https://solvedac-cards-starcea.paring.moe/profile/young_out)](https://solved.ac/profile/young_out)
