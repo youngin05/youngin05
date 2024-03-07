@@ -23,4 +23,5 @@ I'm currently interested in **PS** and **AI**.
 
 ## **🔎 More About**
 [![Discord](https://img.shields.io/badge/Blog-03C75A?logo=naver&logoColor=white)](https://blog.naver.com/001frtt)
+[![Discord](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/0in.05/)
 [![Discord](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/shuhua)
