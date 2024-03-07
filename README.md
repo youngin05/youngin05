@@ -1,6 +1,6 @@
 ## _Hi there, I'm Youngin!_ 👋
-I'm 
-I'm currently learning PS and AI.
+ 
+I'm currently interested in **PS** and **AI**.
 
 ## **🧱 Stacks**
 
