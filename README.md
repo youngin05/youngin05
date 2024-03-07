@@ -3,7 +3,6 @@ I'm studying in **Kookmin University** about Artificial Inteligence.
 I'm currently interested in **PS** and **AI**.
 
 ## **🧱 Stacks**
-
 *Used it many times*  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=scratch&logoColor=white">
@@ -21,3 +20,7 @@ I'm currently interested in **PS** and **AI**.
 
 ## **📚 Stats**
 [![solved.ac profile](https://solvedac-cards-starcea.paring.moe/profile/young_out)](https://solved.ac/profile/young_out)
+
+## **🔎 More About**
+[![Discord](https://img.shields.io/badge/Blog-03C75A?logo=naver&logoColor=white)](https://blog.naver.com/001frtt)
+[![Discord](https://img.shields.io/badge/@Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/shuhua)
